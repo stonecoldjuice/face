@@ -1,0 +1,9 @@
+{
+    "task" : {
+        "title": "TITLE",
+        "summary": "SUMMARY",
+        "beginDate": "BEGIN_DATE",
+        "endDate": "END_DATE",
+        "status": "STATUS"
+    }
+}
